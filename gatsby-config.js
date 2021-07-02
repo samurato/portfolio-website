@@ -9,8 +9,8 @@ module.exports = {
     siteTitleAlt: `Blog and portfolio of Samrat `,
     siteHeadline: `Welcome to Samrat's Blog`,
     siteUrl: `https://samratpant.com`,
-    siteDescription: `Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting.`,
-    siteTitleAlt: `Minimal Blog - Gatsby Theme`,
+    siteDescription: `Welcome to Blog, portfolio webiste of Samrat.`,
+    siteTitleAlt: `Samrat Pant Blog and Portfolio Website.`,
   },
   flags: {
     FAST_DEV: true,
@@ -32,12 +32,16 @@ module.exports = {
         ],
         externalLinks: [
           {
-            name: `Twitter`,
-            url: `https://twitter.com/lekoarts_de`,
+            name: `Github`,
+            url: `https://github.com/samurato`,
+          },
+          {
+            name: `LinkedIn`,
+            url: `https://linkedin.com/in/samratpant`,
           },
           {
             name: `Homepage`,
-            url: `https://www.lekoarts.de?utm_source=minimal-blog&utm_medium=Starter`,
+            url: `https://www.samratpant.com`,
           },
         ],
       },
