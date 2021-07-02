@@ -5,6 +5,11 @@ const googleAnalyticsTrackingId = process.env.GOOGLE_ANALYTICS_ID
 
 module.exports = {
   siteMetadata: {
+    siteTitle: `Samrat Pant`,
+    siteTitleAlt: `Blog and portfolio of Samrat `,
+    siteHeadline: `Welcome to Samrat's Blog`,
+    siteUrl: `https://samratpant.com`,
+    siteDescription: `Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting.`,
     siteTitleAlt: `Minimal Blog - Gatsby Theme`,
   },
   flags: {
