@@ -1,0 +1,37 @@
+{
+	"interests": [
+		{
+			"label": "Gaming",
+			"image": {
+				"src": "../../images/joystick.png",
+				"alt": ""
+			}
+		},
+		{
+			"label": "Reading",
+			"image": {
+				"src": "../../images/notebook.png",
+				"alt": ""
+			}
+		},
+		{
+			"label": "Medium",
+			"image": {
+				"src": "../../images/medium.png",
+				"alt": ""
+			}
+		},
+		{
+			"label": "Anime",
+			"image": {
+				"src": "../../images/gem-stone.png",
+				"alt": ""
+			}
+		}
+	],
+	"button": {
+		"visible": true,
+		"label": "+ Load More",
+		"initiallyShownInterests": 5
+	}
+}

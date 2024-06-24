@@ -1,0 +1,39 @@
+{
+  "siteMetadata": {
+    "language": "en",
+    "siteUrl": "https://samratpant.com/",
+    "title": "Samrat Pant Portfolio Website",
+    "description": "Welcome to Samrat's world",
+    "author": "Samrat Pant",
+    "bio": "Samrat is a Network Automation Engineer with a degree in Information and Communication Technology Engineering from UTS",
+    "social": {
+      "github": "https://github.com/samurato",
+      "medium": "https://medium.com/@samrat-sammie",
+      "linkedin": "https://www.linkedin.com/in/samratpant/",
+      "mail": "mailto:mail@samratpant.com"
+    }
+  },
+  "siteConfiguration": {
+    "logo": { "text": "Samrat Pant" },
+    "navigation": {
+      "header": [
+        { "label": "About", "url": "/#about" },
+        { "label": "Blog", "url": "/blog" },
+        { "label": "Github", "url": "/#github" }
+      ],
+      "ctaButton": {
+        "openNewTab": true,
+        "label": "Resume",
+        "url": "/resume.pdf"
+      },
+      "footer": [
+        { "label": "Privacy", "url": "/privacy" }
+      ]
+    },
+    "featureToggles": {
+      "useDarkModeAsDefault": true,
+      "useDarkModeBasedOnUsersPreference": true,
+      "useCookieBar": false
+    }
+  }
+}

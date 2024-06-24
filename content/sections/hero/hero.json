@@ -1,0 +1,27 @@
+{
+	"intro": "Namaste and welcome",
+	"heroPhoto": {
+		"src": "../../images/lego-dummy.png",
+		"alt": "My Photo"
+	},
+	"image": {
+		"src": "../../images/waving-hand.png",
+		"alt": "Waving Hand Emoji"
+	},
+	"title": "I am Samrat",
+	"subtitle": {
+		"prefix": " ",
+		"highlight": "based in Sydney, Australia",
+		"suffix": "."
+	},
+	"description": "I love to learn and challenge myelf everyday ",
+	"socialProfiles": {
+		"from": [
+			"LinkedIn",
+			"Medium",
+			"Github",
+			"Mail"
+		],
+		"showIcons": true
+	}
+}

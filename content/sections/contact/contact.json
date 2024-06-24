@@ -1,0 +1,18 @@
+{
+	"name": "Samrat Pant",
+	"email": "mail@samratpant.com",
+	"description": "Feel Free to reach out to me via the following means.",
+	"image": {
+		"src": "../../images/favicon.png",
+		"alt": "Gatsby Logo"
+	},
+	"socialProfiles": {
+		"from": [
+			"LinkedIn",
+			"Medium",
+			"Github",
+			"Mail"
+		],
+		"showIcons": true
+	}
+}
